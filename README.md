@@ -4,11 +4,11 @@ I'm a Software Developer passionate about bridging the gap between cutting-edge 
 
 ## 🔭 What I do
 
-My current focus is on elevating our team's developer experience by building **AI agents and custom skills**. These tools are designed to enhance our code review process --- ensuring we consistently ship clean, efficient, and secure code while helping the team continuously improve their development practices.
+My current focus is on elevating our team's developer experience by building **AI agents and custom skills**. These tools are designed to enhance our code review process — ensuring we consistently ship clean, efficient, and secure code while helping the team continuously improve their development practices.
 
 Alongside my AI tooling work, I actively code and provide cross-team support, specializing heavily in frontend architecture and web ecosystems.
 
-**🏆 Recent Highlight:** I recently led the successful upgrade of our main project to a modern tech stack --- a major architectural jump that required careful attention to detail, resolving breaking changes, and modernizing legacy patterns.
+**🏆 Recent Highlight:** I recently led the successful upgrade of our main project to a modern tech stack — a major architectural jump that required careful attention to detail, resolving breaking changes, and modernizing legacy patterns.
 
 ## 🛠️ Tech Stack & Tools
 
@@ -34,7 +34,7 @@ I'm always happy to collaborate or help unblock a teammate! Feel free to ping me
 - **Working Hours:** 08:00 - 17:00 (CEST)
 -->
 
-> "As iron sharpens iron, so one person sharpens another." --- Proverbs 27:17
+> "As iron sharpens iron, so one person sharpens another." — Proverbs 27:17
 
 _...we review and support each other so the whole team gets sharper and better._
 
