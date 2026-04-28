@@ -23,7 +23,7 @@ I'm always happy to collaborate or help unblock a teammate! Feel free to ping me
 
 - **Web Technologies & Frontend Architecture** (I'm your go-to person!)
 - **Angular** (especially complex version migrations, reactivity, and best practices)
-- **AI Developer Tools** (how to leverage agents for better PRs and cleaner code)
+- **AI Developer Tools** (how to leverage agents for better code reviews and cleaner code)
 - **C++** support and integrations
 
 <!--
