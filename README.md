@@ -1,32 +1,42 @@
 # Hi there! I'm Carlos 👋
 
-I am a Software Developer, working closely with the @ammann-machines team.
+I'm a Software Developer passionate about bridging the gap between cutting-edge AI assistance and high-performance web ecosystems.
 
 ## 🔭 What I do
 
-I currently focus on building and maintaining [mention 1-2 key projects, e.g., our core microservices / the frontend design system]. My day-to-day involves writing clean code, reviewing PRs, and collaborating with cross-functional teams to deliver great features.
+My current focus is on elevating our team's developer experience by building **AI agents and custom skills**. These tools are designed to enhance our code review process --- ensuring we consistently ship clean, efficient, and secure code while helping the team continuously improve their development practices.
+
+Alongside my AI tooling work, I actively code and provide cross-team support, specializing heavily in frontend architecture and web ecosystems.
+
+**🏆 Recent Highlight:** I recently led the successful upgrade of our main project to a modern tech stack --- a major architectural jump that required careful attention to detail, resolving breaking changes, and modernizing legacy patterns.
 
 ## 🛠️ Tech Stack & Tools
 
-**Languages:** [e.g., Python, TypeScript, Go]
-**Frameworks:** [e.g., React, Django, Spring Boot]
-**Infrastructure & Tools:** [e.g., Docker, AWS, GitHub Actions]
+- **Web Technologies:** HTML, CSS/SCSS, JavaScript, TypeScript
+- **Frameworks:** Angular
+- **Systems/Backend:** C++
+- **Focus Areas:** AI-Assisted Development, Developer Experience (DevEx), Code Quality Automation
 
 ## 💬 Ask me about
 
-I'm always happy to help! Feel free to reach out to me regarding:
+I'm always happy to collaborate or help unblock a teammate! Feel free to ping me about:
 
-- [Your area of expertise 1, e.g., Database optimization]
-- [Your area of expertise 2, e.g., Onboarding to the X repository]
-- [Your area of expertise 3, e.g., Agile processes]
+- **Web Technologies & Frontend Architecture** (I'm your go-to person!)
+- **Angular** (especially complex version migrations, reactivity, and best practices)
+- **AI Developer Tools** (how to leverage agents for better PRs and cleaner code)
+- **C++** support and integrations
 
+<!--
 ## 📫 How to reach me
 
-**Internal Communication:** Ping me on Slack at `@your-handle`.
-**Email:** `your.name@company.com`
-**Working Hours:** 09:00 - 17:00 [Your Timezone]
+- **Internal Chat:** Ping me on Slack/Teams at `@your-handle`
+- **Email:** `144460259+QCHACa@users.noreply.github.com`
+- **Working Hours:** 08:00 - 17:00 (CEST)
+-->
 
-> "A short, professional quote or your personal working motto."
+> "As iron sharpens iron, so one person sharpens another." --- Proverbs 27:17
+
+_...we review and support each other so the whole team gets sharper and better._
 
 <!--
 **QCHACa/QCHACa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,6 +49,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
